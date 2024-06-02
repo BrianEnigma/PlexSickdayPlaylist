@@ -1,7 +1,10 @@
-# Plex Sickday Playlist
+# Plex Sickday Playlist Generator
 
-- TODO: Creative Commons
-- TODO: Who
+<https://github.com/BrianEnigma/PlexSickdayPlaylist>
+
+Plex Sickday Playlist Generator © 2024 by [Brian Enigma](https://brianenigma.com) 
+is licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 
+International. To view a copy of this license, visit <https://creativecommons.org/licenses/by-nc-sa/4.0/>
 
 ## Overview
 
