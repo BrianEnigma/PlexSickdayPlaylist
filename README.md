@@ -78,7 +78,7 @@ Edit `config.py`:
 ## Usage
 
 ```
-usage: Sickday Playlist Generator [-h] [-c COUNT] [-e]
+usage: generate_playlist.py [-h] [-c COUNT] [-e]
 
 Generate a Plex playlist for sickdays.
 

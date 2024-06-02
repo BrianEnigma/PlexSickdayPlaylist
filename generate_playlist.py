@@ -17,7 +17,7 @@ class PlaylistGenerator:
     def __init__(self):
         self._count = 20
         self._erase_first = False
-        self._parser = argparse.ArgumentParser(prog="Sickday Playlist Generator",
+        self._parser = argparse.ArgumentParser(prog="generate_playlist.py",
                                                description="Generate a Plex playlist for sickdays.",
                                                epilog="See the README for more detailed information.")
         self._plex = None
